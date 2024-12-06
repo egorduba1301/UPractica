@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\Migrations\\20241206143903_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JeverlyStore.DAL\\Migrations\\20241206143903_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00D49C6-4198-4AF9-8463-678A2A2F8E94}|JeverlyStore.DAL\\JeverlyStore.DAL.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystore.dal\\jeverlystore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B00D49C6-4198-4AF9-8463-678A2A2F8E94}|JeverlyStore.DAL\\JeverlyStore.DAL.csproj|solutionrelative:jeverlystore.dal\\jeverlystore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00D49C6-4198-4AF9-8463-678A2A2F8E94}|JeverlyStore.DAL\\JeverlyStore.DAL.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystore.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00D49C6-4198-4AF9-8463-678A2A2F8E94}|JeverlyStore.DAL\\JeverlyStore.DAL.csproj|solutionrelative:jeverlystore.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A8D261-BA03-4B65-AE10-39339347FB00}|JewerlyStore.Service\\JewerlyStore.Service.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore.service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A8D261-BA03-4B65-AE10-39339347FB00}|JewerlyStore.Service\\JewerlyStore.Service.csproj|solutionrelative:jewerlystore.service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\helpers\\authenticateuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\helpers\\authenticateuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\validators\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\validators\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\modelsdb\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\modelsdb\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\modelsdb\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\modelsdb\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\modelsdb\\picturesproductdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\modelsdb\\picturesproductdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\modelsdb\\orderdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\modelsdb\\orderdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jeverlystroe.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AAE1F4-075D-4BA4-87A1-C28126B55EA0}|JeverlyStroe.Domain\\JeverlyStroe.Domain.csproj|solutionrelative:jeverlystroe.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\views\\home\\customproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\views\\home\\customproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\views\\home\\siteinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\views\\home\\siteinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\wwwroot\\js\\shared_site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\wwwroot\\js\\shared_site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\views\\shared\\loginregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\views\\shared\\loginregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\wwwroot\\js\\loginregistrationscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\wwwroot\\js\\loginregistrationscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\wwwroot\\css\\mediastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\wwwroot\\css\\mediastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|c:\\users\\kab-31-13\\downloads\\jewerlystore-main\\jewerlystore\\jewerlystore\\wwwroot\\css\\loginregistrationstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CFEC29E-F267-4A14-B2A7-2260D900FBB6}|JewerlyStore\\JewerlyStore.csproj|solutionrelative:jewerlystore\\wwwroot\\css\\loginregistrationstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241206143903_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\Migrations\\20241206143903_Init.cs",
+              "RelativeDocumentMoniker": "JeverlyStore.DAL\\Migrations\\20241206143903_Init.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\Migrations\\20241206143903_Init.cs",
+              "RelativeToolTip": "JeverlyStore.DAL\\Migrations\\20241206143903_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:39:03.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Initializer.cs",
+              "RelativeDocumentMoniker": "JewerlyStore\\Initializer.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Initializer.cs",
+              "RelativeToolTip": "JewerlyStore\\Initializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:21:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore.Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "JewerlyStore.Service\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore.Service\\AccountService.cs",
+              "RelativeToolTip": "JewerlyStore.Service\\AccountService.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAuwLcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:19:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Validators\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\Validators\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Validators\\ProductValidator.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\Validators\\ProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:18:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Validators\\OrderValidator.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\Validators\\OrderValidator.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Validators\\OrderValidator.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\Validators\\OrderValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:17:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateUserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Helpers\\AuthenticateUserHelper.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\Helpers\\AuthenticateUserHelper.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Helpers\\AuthenticateUserHelper.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\Helpers\\AuthenticateUserHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:17:29.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDb.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\UserDb.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\ModelsDb\\UserDb.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\UserDb.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\ModelsDb\\UserDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:13:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDb.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\ProductDb.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\ModelsDb\\ProductDb.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\ProductDb.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\ModelsDb\\ProductDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:13:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Models\\User.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:05:13.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Program.cs",
+              "RelativeDocumentMoniker": "JewerlyStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Program.cs",
+              "RelativeToolTip": "JewerlyStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:59:53.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JeverlyStore.DAL",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\JeverlyStore.DAL.csproj",
+              "RelativeDocumentMoniker": "JeverlyStore.DAL\\JeverlyStore.DAL.csproj",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\JeverlyStore.DAL.csproj",
+              "RelativeToolTip": "JeverlyStore.DAL\\JeverlyStore.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T14:23:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JeverlyStore.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStore.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JeverlyStore.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:05:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PicturesProductDb.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\PicturesProductDb.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\ModelsDb\\PicturesProductDb.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\PicturesProductDb.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\ModelsDb\\PicturesProductDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:13:23.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDb.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\OrderDb.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\ModelsDb\\OrderDb.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\ModelsDb\\OrderDb.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\ModelsDb\\OrderDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:12:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:04:51.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "JeverlyStroe.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JeverlyStroe.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "JeverlyStroe.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:05:08.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "JewerlyStore\\Views\\Home\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "JewerlyStore\\Views\\Home\\Contacts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T13:34:24.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\CustomProduct.cshtml",
+              "RelativeDocumentMoniker": "JewerlyStore\\Views\\Home\\CustomProduct.cshtml",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\CustomProduct.cshtml",
+              "RelativeToolTip": "JewerlyStore\\Views\\Home\\CustomProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T13:21:22.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\Main.cshtml",
+              "RelativeDocumentMoniker": "JewerlyStore\\Views\\Home\\Main.cshtml",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\Main.cshtml",
+              "RelativeToolTip": "JewerlyStore\\Views\\Home\\Main.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T13:10:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\appsettings.json",
+              "RelativeDocumentMoniker": "JewerlyStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\appsettings.json",
+              "RelativeToolTip": "JewerlyStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T12:04:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Shared\\LoginRegistration.cshtml",
+              "RelativeDocumentMoniker": "JewerlyStore\\Views\\Shared\\LoginRegistration.cshtml",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Shared\\LoginRegistration.cshtml",
+              "RelativeToolTip": "JewerlyStore\\Views\\Shared\\LoginRegistration.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:59:48.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JewerlyStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JewerlyStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:59:45.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SiteInformation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\SiteInformation.cshtml",
+              "RelativeDocumentMoniker": "JewerlyStore\\Views\\Home\\SiteInformation.cshtml",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Views\\Home\\SiteInformation.cshtml",
+              "RelativeToolTip": "JewerlyStore\\Views\\Home\\SiteInformation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:59:41.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JewerlyStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JewerlyStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:59:33.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "shared_site.js",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\js\\shared_site.js",
+              "RelativeDocumentMoniker": "JewerlyStore\\wwwroot\\js\\shared_site.js",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\js\\shared_site.js",
+              "RelativeToolTip": "JewerlyStore\\wwwroot\\js\\shared_site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-06T11:59:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginRegistrationScript.js",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\js\\LoginRegistrationScript.js",
+              "RelativeDocumentMoniker": "JewerlyStore\\wwwroot\\js\\LoginRegistrationScript.js",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\js\\LoginRegistrationScript.js",
+              "RelativeToolTip": "JewerlyStore\\wwwroot\\js\\LoginRegistrationScript.js",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-06T11:59:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Shared.css",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\css\\Shared.css",
+              "RelativeDocumentMoniker": "JewerlyStore\\wwwroot\\css\\Shared.css",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\css\\Shared.css",
+              "RelativeToolTip": "JewerlyStore\\wwwroot\\css\\Shared.css",
+              "ViewState": "AQIAAE0BAAAAnh5dC5QwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T11:59:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MediaStyle.css",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\css\\MediaStyle.css",
+              "RelativeDocumentMoniker": "JewerlyStore\\wwwroot\\css\\MediaStyle.css",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\css\\MediaStyle.css",
+              "RelativeToolTip": "JewerlyStore\\wwwroot\\css\\MediaStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T11:59:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginRegistrationStyle.css",
+              "DocumentMoniker": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\css\\LoginRegistrationStyle.css",
+              "RelativeDocumentMoniker": "JewerlyStore\\wwwroot\\css\\LoginRegistrationStyle.css",
+              "ToolTip": "C:\\Users\\Kab-31-13\\Downloads\\JewerlyStore-main\\JewerlyStore\\JewerlyStore\\wwwroot\\css\\LoginRegistrationStyle.css",
+              "RelativeToolTip": "JewerlyStore\\wwwroot\\css\\LoginRegistrationStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T11:59:14.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

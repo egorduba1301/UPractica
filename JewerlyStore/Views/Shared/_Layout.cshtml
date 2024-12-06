@@ -1,0 +1,77 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/Shared.css"/>
+    <link rel="stylesheet" href="~/css/MediaStyle.css" asp-append-version="true"/>
+
+</head>
+<body>
+<script src="~/js/shared_site.js"></script>
+<script src="~/js/LoginRegistrationScript.js"></script>
+
+@await Html.PartialAsync("LoginRegistration")
+@await Html.PartialAsync("ConfirmEmailPartial")
+<div id="header-top">
+    <div class="logo">Дом и строй</div>
+    <div class="button-header">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <button class="button" type="button" name="button" onclick="window.location.href='@Url.Action("Logout","Home")'">Выйти</button> 
+        }
+        @if (!User.Identity.IsAuthenticated)
+        {
+            <button class="button" id="click-to-hide" type="button" name="button">Войти</button>    
+        }
+    </div>
+    <div id="hamburger" class="icon">&#9776</div>
+</div>
+
+	<img class="img-header" alt="" <img src="~/images/tittle.jpg" />
+
+<div id="header-bottom">
+    <div class="menu">
+        <ul>
+            <li><a asp-controller="Home" asp-action="SiteInformation">О нас</a></li>
+            <li><a asp-controller="Home" asp-action="Main">Главная</a></li>
+            <li><a asp-controller="Home" asp-action="Contacts">Контакты</a></li>
+            <li><a asp-controller="Home" asp-action="CustomProduct">Каталог</a></li>
+            
+            
+           
+        </ul>
+    </div>
+</div>
+<div id="side-menu" class="side-menu">
+    <div>
+        <ul>
+            <li><a asp-controller="Home" asp-action="SiteInformation">О нас</a></li>
+            <li><a asp-controller="Home" asp-action="Main">Главная</a></li>
+            <li><a asp-controller="Home" asp-action="Contacts">Контакты</a></li>
+            <li><a href="#promotion">Акции</a></li>
+            
+        </ul>
+    </div>
+    <button class="button" id="side-menu-button-click-to-hide" type="button" name="button">Войти</button>
+</div>
+
+
+<div class="container">
+    @RenderBody()
+</div>
+
+</body>
+<footer >
+    <p class="text1"> © 2024 MMM</p>
+    <p class="text1">Подробнее о нас можете узнать тут:<a href="https://www.instagram.com/geniushop.md/" target="_blank">Instagram</a></p>
+    <p class="text2">
+        "Спасибо, что выбираете нас. Мы всегда готовы работать для вас и с вами! Если у вас есть вопросы или пожелания, обращайтесь — мы ценим каждого клиента и стремимся сделать ваш опыт покупок максимально комфортным.
+
+        Желаем вам удачи в строительстве и ремонте! Ваши идеи, труд и наша продукция — это ключ к созданию пространства вашей мечты. Приходите в "Дом и строй" — место, где начинаются перемены к лучшему."
+    </p>
+</footer>
+</html>
